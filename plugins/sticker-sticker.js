@@ -45,7 +45,7 @@ else return conn.reply(m.chat, '⚠️ *ENVIA TU IMAGEN/VIDEO O GIF Y LUEGO RESP
 
 }}
 handler.help = ['stiker <img>', 'sticker <url>']
-handler.tags = ['sticker']
+handler.tags = ['tools']
 handler.command = ['s', 'sticker', 'stiker']
 
 export default handler
