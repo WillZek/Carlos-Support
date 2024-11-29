@@ -40,7 +40,7 @@ let handler = async (m, { conn }) => {
     await m.react('✅')
   }
 }
-handler.tags = ['convertir']
+handler.tags = ['tools']
 handler.help = ['toibb']
 handler.command = /^(tourl|toibb)$/i
 handler.register = true 
