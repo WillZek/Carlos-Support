@@ -21,39 +21,22 @@ let Styles = (text, style = 1) => {
   return output.join('');
 };
 let tags = {
-  'anime': '🧧 ANIME 🎐',
   'main': '❗ INFO ❕',
-  'search': '🔎 SEARCH 🔍',
-  'game': '🕹️ GAME 🎮',
-  'serbot': '⚙️ SUB BOTS 🤖',
-  'rpg': '🌐 RPG 🥇',
-  'rg': '🎑 REGISTRO 🎟️',
-  'sticker': '💟 STICKER 🏷️',
-  'img': '🖼️ IMAGE 🎇',
   'group': '👥 GROUPS 📢',
-//  'logo': 'MAKER',
   'nable': '🎛️ ON / OFF 🔌', 
-  'premium': '💎 PREMIUM 👑',
-  'downloader': '📥 DOWNLOAD 📤',
   'tools': '🔧 TOOLS 🛠️',
-  'fun': '🎉 FUN 🎊',
-  'nsfw': '🔞 NSFW 📛', 
-  'cmd': '🧮 DATABASE 🖥️',
   'owner': '👤 OWNER 👁️', 
-  'audio': '📣 AUDIOS 🔊', 
-  'advanced': '🗝️ ADVANCED 📍',
-}
+  }
 
 const defaultMenu = {
   before: `
 > 「 ${textbot} あ⁩ 」\n
 
 ╔──────¤◎¤──────╗
-┋#     ✧ *PrakBot - Ai ‹‹❑ౄ*
+┋#     ✧ *CARLOS - SUPPORT‹‹❑*
 ╚──────¤◎¤──────╝
 ╭━─━─━─≪𖣘≫─━─━─━╮
 ┃✰ ➬ *Cliente:* %name
-┃✰ ➬ *Estrellas:* %limit
 ┃✰ ➬ *Nivel:* %level [ %xp4levelup Xp Para Subir De Nivel]
 ┃✰ ➬ *Xp:* %exp / %maxexp
 ┃✰ ➬ *TotalXp:* %totalexp
@@ -68,7 +51,7 @@ const defaultMenu = {
 ┃✰ ➬ *Database:*  %totalreg
 ╰━─━─━─≪𖣘≫─━─━─━╯
      
-   *⏤͟͟͞͞★PrakBot-Aiꗄ➺*
+   *⏤͟͟͞͞★SOPORTE DEL GRUPOꗄ➺*
 ◆━━━━━━━▣✦▣━━━━━━━━◆ 
  %readmore
 \t\t\t⚜️ *𝕷𝖎𝖘𝖙𝖆 𝕯𝖊 𝕮𝖔𝖒𝖆𝖓𝖉𝖔𝖘* ﭢ
