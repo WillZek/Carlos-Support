@@ -23,7 +23,7 @@ global.prems = []
 global.packname = `[ Sticker Maker`
 global.author = '🌠 Carlos-Support WhatsApp Bot ]'
 global.wait = '🚩 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ*'
-global.botname = '[ 𝐂𝐫𝐨𝐰 𝐀𝐢 𝐖𝐡𝐚𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 ]'
+global.botname = '[ 𝐂𝐚𝐫𝐥𝐨𝐬 - 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐖𝐡𝐚𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 ]'
 global.textbot = `Powered By WillZek`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
 global.namechannel = '𝐂𝐚𝐫𝐥𝐨𝐬 - 𝐒𝐮𝐩𝐩𝐨𝐫𝐭🌠'
@@ -35,7 +35,7 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/IO3kjd9ovw1Dm8pVUE2MgN'
+global.group = 'https://chat.whatsapp.com/Llel1ogpuyc824Px2PieeX'
 global.canal = 'https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
